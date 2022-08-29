@@ -1,3 +1,3 @@
-# canadian_languages
+# Canadian languages
 
 Authors: Trevor Campbell, Melissa Lee & Tiffany Timbers
